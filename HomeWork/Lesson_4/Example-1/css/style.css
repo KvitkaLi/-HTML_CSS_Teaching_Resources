@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+header{
+    width: 80%; /* це ширина блоку */
+    height: 150px;
+    background-color: rgb(14, 100, 239);
+    margin: 20px auto;  
+}
+
+li {
+    display: inline; /* блочний  в рядковий*/
+    margin: 10px;
+}
+h1{
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    padding: 20px;
+    color: aliceblue;
+}
+a{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: blueviolet;
+    border: 2px solid rgb(252, 252, 252);
+}
+.header__menu{
+    color: rgb(252, 252, 252);
+}
+
+
+
+
+
+
+
+
+
+
+
+main{
+    width: 80%;
+    height: 500px;
+    background-color: rgb(215, 237, 48);
+    margin: 0 auto;
+}
+
+.main__block-1{
+    width: 62%;
+    margin: 0 auto;
+}
+footer{
+    height: 100px;
+    background-color: rgb(177, 195, 248);
+    text-align: center;
+}
